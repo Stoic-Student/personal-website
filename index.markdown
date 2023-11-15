@@ -16,3 +16,4 @@ I will put explanations in Dutch and English.
 **Contact**
 
 You can contact me on Discord at 'stoicstudent'.
+
