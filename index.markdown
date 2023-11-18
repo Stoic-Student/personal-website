@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome!
+## Welcome!
 
 I created this site to publish some works that others might find interesting.
 Easier to share that way :-)
@@ -13,7 +13,11 @@ Easier to share that way :-)
 I plan to put some calligraphy card designs here, as well as the underlying ideas I had when making them.
 I will put explanations in Dutch and English.
 
-**Contact**
+## Calligraphy cards
 
-You can contact me on Discord at 'stoicstudent'.
+[Self-Discipline & Self-Compassion]({% post_url 2023-11-15-self-discipline-self-compassion %})
+
+## Reports 
+
+[Self-Discipline & Self-Compassion]({% link calligraphy-cards/self-discipline-self-compassion.md %}) (WIP)
 
