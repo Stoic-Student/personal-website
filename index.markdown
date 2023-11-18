@@ -19,5 +19,5 @@ I will put explanations in Dutch and English.
 
 ## Reports 
 
-[Self-Discipline & Self-Compassion]({% link /reports/self-discipline-self-compassion.md %}) (WIP)
+[Self-Discipline & Self-Compassion]({% link reports/self-discipline-self-compassion.md %}) (WIP)
 
