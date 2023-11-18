@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Welcome!
+Welcome!
 
 I created this site to publish some works that others might find interesting.
 Easier to share that way :-)

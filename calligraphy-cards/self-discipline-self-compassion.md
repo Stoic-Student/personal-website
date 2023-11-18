@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Calligraphy card: Self-Discipline & Self-Compassion"
+title: "Report: Self-Discipline & Self-Compassion"
 permalink: /self-discipline-self-compassion/
 ---
 
 This card was inspired by the phrase 'self-discipline and self-compassion' from Brad Stulberg in the book 'The Practice of Groundedness'.
 
 ![Card Self-Disipline & Self-Compassion](/../assets/calligraphy-cards-images/self-discipline_self-compassion.jpg)
+
+The card is related to a greater concept and the card text is a very brief summary of my thoughts on it.
 
 This is the card text in English:
 
