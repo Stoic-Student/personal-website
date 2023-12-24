@@ -15,7 +15,7 @@ I will put explanations in Dutch and English.
 
 ## Calligraphy cards
 
-[Self-Discipline & Self-Compassion]({% post_url personal-website/2023-11-15-self-discipline-self-compassion %})
+[Self-Discipline & Self-Compassion]({% post_url /personal-website/2023-11-15-self-discipline-self-compassion %})
 
 ## Reports 
 
